@@ -1,3 +1,5 @@
+Asset Management System (AMS) adalah aplikasi berbasis web yang digunakan untuk mengelola aset perusahaan secara terpusat.
+
 **Status:** Private Code  
 **Tech:** Laravel, MySQL  
 **Metode:** Agile XP
